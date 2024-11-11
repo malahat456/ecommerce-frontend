@@ -1,0 +1,24 @@
+/* App.css */
+
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.app-header {
+  margin: 20px 0;
+  font-size: 2em;
+  color: #333;
+}
+
+/* Optional: Style individual components */
+.app-header h1 {
+  margin: 0;
+  font-weight: bold;
+  color: #0056b3; /* Adds a blue color */
+}
+
+/* Style for Routes container */
+.app-content {
+  padding: 20px;
+}
